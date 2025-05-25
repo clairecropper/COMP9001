@@ -90,9 +90,10 @@ Link to Github: https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-C
 ### Skyline
 Pulled from: 
 
-### Footpath, Umbrella and Magpie
+### Footpath, Umbrella
 Myself
 
-
+### Magpie
+https://ma9ici4n.itch.io/pixel-art-bird-16x16
 
 
