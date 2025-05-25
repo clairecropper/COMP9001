@@ -67,9 +67,9 @@ class Game:
 
         # Student obstacles (3 sets)
         self.student_textures = [
-            load_scaled_images("img/obstacles", "student1_", range(1, 9), 2.7),
-            load_scaled_images("img/obstacles", "student2_", range(1, 9), 2.7),
-            load_scaled_images("img/obstacles", "student3_", range(1, 9), 2.7)
+            load_scaled_images("img/obstacles", "student1_", range(1, 9), 2.55),
+            load_scaled_images("img/obstacles", "student2_", range(1, 9), 2.55),
+            load_scaled_images("img/obstacles", "student3_", range(1, 9), 2.55)
         ]
         self.students = []
 
