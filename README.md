@@ -11,6 +11,8 @@ and students while dealing with unpredictable rainstorms with drifting umbrellas
 
 Make it to class before the clock hits 5:00 PM, or you're officially late for lecture.
 
+<img width="1054" alt="game" src="https://github.com/user-attachments/assets/0bd0d1db-dbed-4570-969d-2f687d64b854" />
+
 ## Features
 - Character selection screen with animated previews
 - Rain system with fade-in and fade-out transitions
