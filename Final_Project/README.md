@@ -39,7 +39,7 @@ ESC – Quit the game during the Game Over screen
 ## 1. Clone (or Download) the Repository
 
 ```
-git clone https://github.com/clairecropper/Final_Project.git
+git clone https://github.com/clairecropper/COMP9001.git
 ```
 ```
 cd Final_Project
